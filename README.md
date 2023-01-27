@@ -29,3 +29,9 @@ I'm Narala Jithendra, I'm an engineering student and a to-be developer from Indi
 <code><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/SpringBoot.png" alt="Spring Boot" style="vertical-align:top margin:6px 4px" height="21"></code>
 
 </p>
+
+<p align="center">
+<a href="https://github.com/NaralaJithendra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaralaJithendra&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&include_repo=hands-on-java-3080245,InstitutionSpringBoot,movieflix,coding" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaralaJithendra&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Jithendra's github stats"/>
+</a></p>
