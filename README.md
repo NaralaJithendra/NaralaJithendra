@@ -35,3 +35,10 @@ I'm Narala Jithendra, I'm an engineering graduate and developer from India who i
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaralaJithendra&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&include_repo=hands-on-java-3080245,InstitutionSpringBoot,movieflix,coding" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaralaJithendra&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Jithendra's github stats"/>
 </a></p>
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything.</i>
+  <p align="center">
+    <a href="https://github.com/NaralaJithendra"><img alt=" GitHub" width="22px" src="https://github.com/NaralaJithendra/Html_Css_JavaScript_Codes_Web/blob/main/Button%20Caliculator/github.svg" /></a>
+    </p>
+</p>
