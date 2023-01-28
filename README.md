@@ -23,10 +23,10 @@ I'm Narala Jithendra, I'm an engineering graduate and developer from India who i
 - 🛠️ Things I know **How to Use**:
 
 <p align="center">
-<code><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21"></code>
-<code><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/python.svg" alt="Python3" style="vertical-align:top margin:6px 4px" height="21"></code>
-<code><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" height="21"></code>
-<code><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/SpringBoot.png" alt="Spring Boot" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><a href="https://github.com/NaralaJithendra/Java_Programming_Codes" target="_blank"><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21"></a></code>
+<code><a href="https://github.com/NaralaJithendra/Python_Programming_Codes" target="_blank"><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/python.svg" alt="Python3" style="vertical-align:top margin:6px 4px" height="21"></a></code>
+<code><a href="https://github.com/NaralaJithendra/Html_Css_JavaScript_Codes_Web" target="_blank"><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" height="21"></a></code>
+<code><a href="https://github.com/NaralaJithendra/Spring-Boot-Projects" target="_blank"><img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/SpringBoot.png" alt="Spring Boot" style="vertical-align:top margin:6px 4px" height="21"></a></code>
 
 </p>
 
