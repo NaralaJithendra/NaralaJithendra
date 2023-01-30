@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Narala Jithendra, I'm an engineering graduate and developer from India who is passionate about Java, Python.
 
-- 🔭 I’m currently working on **Web 🌐** and **Java** and **Spring Boot**.
+- 🔭 I’m currently working on **Web 🌐** and **Java** and **Spring Boot** and **Python**.
 - 💬 Ask me about: **Tech 👨🏻‍💻**, **Memes 🤣**, **Marvel  🦸‍♂️🦸‍♀️**, **Music  :musical_note: :notes:**.
 - 🛠️ Things I know **How to Use**:
 
