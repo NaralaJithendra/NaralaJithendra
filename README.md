@@ -31,10 +31,18 @@ I'm Narala Jithendra, I'm an engineering graduate and developer from India who i
 </p>
 
 <p align="center">
-<a href="https://github.com/NaralaJithendra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaralaJithendra&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&include_repo=hands-on-java-3080245,InstitutionSpringBoot,movieflix,coding" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaralaJithendra&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Jithendra's github stats"/>
-</a></p>
+  <a href="https://github.com/NaralaJithendra"></a></p>
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=NaralaJithendra&show_icons=true&locale=en&theme=monokai" alt="NaralaJithendraStats" style="width:50%"/><img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NaralaJithendra&theme=monokai" alt="NaralaJithendraStats" style="width:50%"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaralaJithendra&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&include_repo=hands-on-java-3080245,InstitutionSpringBoot,movieflix,coding"/>
+</details>
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaralaJithendra&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&include_repo=hands-on-java-3080245,InstitutionSpringBoot,movieflix,coding"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaralaJithendra&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&icon_color=439975" alt="Jithendra's github stats"/>-->
+<p><a></a></p>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything.</i>
