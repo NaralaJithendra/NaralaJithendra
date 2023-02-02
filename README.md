@@ -34,7 +34,8 @@ I'm Narala Jithendra, I'm an engineering graduate and developer from India who i
   <a href="https://github.com/NaralaJithendra"></a></p>
  <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <img align="center"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JithendraNarala&theme=monokai" alt="NaralaJithendraStats" style="width:50%"/>
   <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=NaralaJithendra&show_icons=true&locale=en&theme=monokai" alt="NaralaJithendraStats" style="width:50%"/><img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=NaralaJithendra&theme=monokai" alt="NaralaJithendraStats" style="width:50%"/>
